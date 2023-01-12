@@ -75,4 +75,6 @@ body {
     color: #E5E5E5;
     font-size: 20px;
     border: none;
+    outline: none;
+    background: #E5E5E5;
 }
