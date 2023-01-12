@@ -15,4 +15,6 @@ function encriptar(){
     document.getElementById("imgPersonaje").style.display = none;
     document.getElementById("texto").style.display = none;
     document.getElementById("areaTexto").innerHTML = txtCifrado;
+    document.getElementById("copiar").style.display = "show";
+    document.getElementById("copiar").style.display = "inherit";
 }
