@@ -65,3 +65,14 @@ body {
     float: inherit;
     margin-left: 26%;
 }
+
+.text-input {
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    height: 80%;
+    color: #E5E5E5;
+    font-size: 20px;
+    border: none;
+}
